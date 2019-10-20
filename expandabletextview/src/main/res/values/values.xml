@@ -11,16 +11,6 @@
     <color name="colorSecondaryTextDefaultMaterialDark">#CCFFFFFF</color>
     <color name="gray">#46000000</color>
     <string name="app_name">ExpandableTextView</string>
-    <declare-styleable name="ExpandTextView">
-        <attr format="color" name="textColor"/>
-        <attr format="color" name="primaryTextColor"/>
-        <attr format="string" name="collapseText"/>
-        <attr format="string" name="expandText"/>
-        <attr format="dimension" name="textSize"/>
-        <attr format="reference" name="collapsedBitmap"/>
-        <attr format="reference" name="expandedBitmap"/>
-        <attr format="integer" name="expandedLines"/>
-        <attr format="integer" name="timeAnimation"/>
-        <attr format="boolean" name="showHideLine"/>
-    </declare-styleable>
+    <declare-styleable name="ExpandableTextView"><attr format="integer" name="etv_expandLines"/><attr format="reference" name="etv_shrinkBitmap"/><attr format="reference" name="etv_expandBitmap"/><attr format="color" name="etv_textStateColor"/><attr format="color" name="etv_textContentColor"/><attr format="dimension" name="etv_textContentSize"/><attr format="string" name="etv_textShrink"/><attr format="string" name="etv_textExpand"/><attr format="integer" name="etv_animationTime"/><attr format="boolean" name="etv_showLine"/></declare-styleable>
+
 </resources>
