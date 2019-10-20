@@ -15,6 +15,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import ru.embersoft.expandabletextview.R;
+import ru.embersoft.expandabletextview.ExpandableTextView;
 
 import androidx.core.content.ContextCompat;
 
