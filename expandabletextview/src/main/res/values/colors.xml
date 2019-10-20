@@ -9,4 +9,5 @@
 
     <color name="colorPrimaryTextDefaultMaterialDark">#FFFFFFFF</color>
     <color name="colorSecondaryTextDefaultMaterialDark">#CCFFFFFF</color>
+    <color name="gray">#46000000</color>
 </resources>
