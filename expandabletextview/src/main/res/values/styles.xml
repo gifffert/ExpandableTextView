@@ -1,0 +1,14 @@
+<resources>
+    <declare-styleable name="ExpandTextView">
+        <attr format="color" name="textColor"/>
+        <attr format="color" name="primaryTextColor"/>
+        <attr format="string" name="collapseText"/>
+        <attr format="string" name="expandText"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="reference" name="collapsedBitmap"/>
+        <attr format="reference" name="expandedBitmap"/>
+        <attr format="integer" name="expandedLines"/>
+        <attr format="integer" name="timeAnimation"/>
+        <attr format="boolean" name="showHideLine"/>
+    </declare-styleable>
+</resources>
